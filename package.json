@@ -1,5 +1,5 @@
 { "name" : "linebuffer"
-, "version" : "0.0.2"
+, "version" : "0.0.3"
 , "description" : "A stream you can pump to that emits data linewise"
 , "engines" : [ "node" ]
 , "directories" : { "lib" : "./lib" }
