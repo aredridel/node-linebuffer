@@ -2,5 +2,6 @@
 , "version" : "0.0.4"
 , "description" : "A stream you can pump to that emits data linewise"
 , "engines" : [ "node" ]
+, "main" : "lib/linebuffer"
 , "directories" : { "lib" : "./lib" }
 }
