@@ -1,6 +1,10 @@
-{ "name" : "linebuffer"
-, "version" : "0.0.4"
-, "description" : "A stream you can pump to that emits data linewise"
-, "engines" : [ "node" ]
-, "directories" : { "lib" : "./lib" }
+{ 
+  "name" : "linebuffer"
+  , "version" : "0.0.5"
+  , "description" : "A stream you can pump to that emits data linewise"
+  , "main" : "lib/linebuffer"
+  , "directories" : { "lib" : "./lib" }
+  , "engines": {
+    "node": ">=0.4.x"
+  }
 }
