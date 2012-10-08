@@ -4,4 +4,7 @@
 , "engines" : [ "node" ]
 , "main" : "lib/linebuffer"
 , "directories" : { "lib" : "./lib" }
+, "engines": {
+    "node": ">=0.8.0"
+  }
 }
