@@ -1,6 +1,6 @@
 { 
   "name" : "linebuffer"
-  , "version" : "0.0.5"
+  , "version" : "0.0.6"
   , "description" : "A stream you can pump to that emits data linewise"
   , "main" : "lib/linebuffer"
   , "directories" : { "lib" : "./lib" }
