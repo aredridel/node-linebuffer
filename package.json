@@ -1,8 +1,14 @@
-{ 
-  "name" : "linebuffer"
-  , "version" : "0.0.6"
-  , "description" : "A stream you can pump to that emits data linewise"
-  , "engines": {
-    "node": ">=0.4.x"
+{
+  "name": "linebuffer",
+  "version": "1.0.0",
+  "description": "A stream you can pump to that emits data linewise",
+  "engines": {
+    "node": ">=0.8.x"
+  },
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "devDependencies": {
+    "tap": "~0.4.4"
   }
 }
