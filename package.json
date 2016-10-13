@@ -9,6 +9,6 @@
     "test": "tap test.js"
   },
   "devDependencies": {
-    "tap": "~7.0.1"
+    "tap": "~7.1.2"
   }
 }
